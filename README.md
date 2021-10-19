@@ -13,4 +13,13 @@
   <h3>Non linear data structures</h3>
   This structure is mostly used for representing data that contains a hierarchical relationship among various elements
   <ol><li>graphs</li><li>trees</li></ol>
+ <h2> Basic Operations of Data Structures </h2>
+ <ul><li>Traversing</li>
+  <li>Searching</li>
+  <li>Insertion</li>
+  <li>Deletion</li>
+  <li>Sorting</li>
+  <li>Merging</li></ul>
+
+
     
