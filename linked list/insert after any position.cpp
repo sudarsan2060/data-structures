@@ -51,3 +51,8 @@ int main() {
     insertAfter(second, 11);
     print_list(head);
 }
+
+/* out put 
+ 1 2 3 
+ 1 2 11 3
+ */
